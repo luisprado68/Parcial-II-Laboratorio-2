@@ -1,0 +1,12 @@
+C:\Users\luisp\Documents\SegundoParcial\Prado.Luis.2D\Jardin-Entidades\bin\Debug\Jardin-Entidades.dll
+C:\Users\luisp\Documents\SegundoParcial\Prado.Luis.2D\Jardin-Entidades\bin\Debug\Jardin-Entidades.pdb
+C:\Users\luisp\Documents\SegundoParcial\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.csprojAssemblyReference.cache
+C:\Users\luisp\Documents\SegundoParcial\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Documents\SegundoParcial\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.dll
+C:\Users\luisp\Documents\SegundoParcial\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.pdb
+C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\bin\Debug\Jardin-Entidades.dll
+C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\bin\Debug\Jardin-Entidades.pdb
+C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.csprojAssemblyReference.cache
+C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.dll
+C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\obj\Debug\Jardin-Entidades.pdb
