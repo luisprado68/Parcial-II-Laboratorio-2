@@ -1,0 +1,63 @@
+=============Log de Errores ===========
+===========Start============= 5/7/2020 01:06:54
+Error Message: Error de Archivo
+Stack Trace:    en Jardin_Entidades.ArchivoXml`1.LeerArchivo(String archivo, T& datos) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\ArchivoXml.cs:línea 73
+   en Jardin_Entidades.Docente.LeerArchivoDocente() en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Docente.cs:línea 63
+===========End============= 5/7/2020 01:06:57
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 01:12:33
+Error Message: Error de Archivo
+Stack Trace:    en Jardin_Entidades.ArchivoXml`1.LeerArchivo(String archivo, T& datos) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\ArchivoXml.cs:línea 73
+   en Jardin_Entidades.Docente.LeerArchivoDocente() en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Docente.cs:línea 63
+===========Fin============= 5/7/2020 01:12:34
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 17:11:22
+Error Message: Se creo directorio Aprobados por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.Guardar(Alumno alumno, Boolean aprobado) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 90
+===========Fin============= 5/7/2020 17:11:23
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 17:13:48
+Error Message: Se creo directorio Desaprobados por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.Guardar(Alumno alumno, Boolean aprobado) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 110
+===========Fin============= 5/7/2020 17:13:48
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 17:28:53
+Error Message: Error al guardar archivo xml
+Stack Trace:    en Jardin_Entidades.ArchivoXml`1.GuardarArchivo(String archivo, T datos) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\ArchivoXml.cs:línea 38
+   en Jardin_Entidades.Alumno.Guardar(Alumno alumno, Boolean aprobado) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 92
+===========Fin============= 5/7/2020 17:28:54
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 23:23:45
+Error Message: Se creo directorio Binario por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.GuardarBinario(List`1 alumno) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 146
+===========Fin============= 5/7/2020 23:23:45
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 23:25:50
+Error Message: Se creo directorio Binario por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.GuardarBinario(List`1 alumno) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 146
+===========Fin============= 5/7/2020 23:25:50
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 23:27:45
+Error Message: Se creo directorio Binario por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.GuardarBinario(List`1 alumno) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 146
+===========Fin============= 5/7/2020 23:27:45
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 23:29:17
+Error Message: Se creo directorio Binario por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.GuardarBinario(List`1 alumno) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 146
+===========Fin============= 5/7/2020 23:29:17
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 23:35:58
+Error Message: Se creo directorio Binario por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.GuardarBinario(List`1 alumno) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 146
+===========Fin============= 5/7/2020 23:35:58
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 23:38:41
+Error Message: Se creo directorio Binario por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.GuardarBinario(List`1 alumno) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 146
+===========Fin============= 5/7/2020 23:38:41
+=============Log de Errores ===========
+===========Inico============= 5/7/2020 23:45:49
+Error Message: Se creo directorio Binario por que no existe
+Stack Trace:    en Jardin_Entidades.Alumno.GuardarBinario(List`1 alumno) en C:\Users\luisp\Documents\SegundoParcialUtn\Prado.Luis.2D\Jardin-Entidades\Alumno.cs:línea 160
+===========Fin============= 5/7/2020 23:45:50
